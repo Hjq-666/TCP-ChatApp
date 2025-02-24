@@ -1,5 +1,6 @@
 # TCP-ChatApp
 基于TCP的聊天程序设计
+
 1.servercode里是服务器的代码
 
 2.clientcode里有两个文件夹，makeexe文件夹里myqt1.exe可以点击直接运行，src文件夹里是对应的c++源代码
